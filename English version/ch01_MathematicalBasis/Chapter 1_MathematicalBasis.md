@@ -33,7 +33,7 @@ A matrix of $m$ rows of $n$ columns is multiplied by a $n$ row vector, and final
 
 ## 1.4 Vector and matrix norm induction
 **Vector norm**
-Define a vector as: $\vec{a}=[-5, 6, 8, -10]$. Any set of vectors is set to $\vec{x}=(x_1,x_2,...,x_N)$. The different norms are solved as follows:
+Define a vector as: $$\vec{a}=[-5, 6, 8, -10]$$. Any set of vectors is set to $\vec{x}=(x_1,x_2,...,x_N)$. The different norms are solved as follows:
 
 - 1 norm of the vector: the sum of the absolute values ​​of the elements of the vector. The 1 norm result of the above vector $\vec{a}$ is: 29.
   
