@@ -30,11 +30,11 @@ In some cases, we will discuss arrays with coordinates over two dimensions. In g
 
 ## 1.3 Matrix and vector multiplication results
 A matrix of $m$ rows of $n$ columns is multiplied by a $n$ row vector, and finally a vector of $m$ rows is obtained. The algorithm is that each row of data in the matrix is ​​treated as a row vector and multiplied by the vector.
-
+$$m$$
 ## 1.4 Vector and matrix norm induction
 **Vector norm**
 Define a vector as: $$\vec{a}=[-5, 6, 8, -10]$$. Any set of vectors is set to $\vec{x}=(x_1,x_2,...,x_N)$. The different norms are solved as follows:
-
+$\Vert\vec{x}\Vert_1=\sum_{i=1}^N\vert{x_i}\vert$
 - 1 norm of the vector: the sum of the absolute values ​​of the elements of the vector. The 1 norm result of the above vector $\vec{a}$ is: 29.
   
 $$
