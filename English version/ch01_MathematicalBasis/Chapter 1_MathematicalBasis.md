@@ -50,7 +50,7 @@ $$
 - Negative infinite norm of the vector: the smallest of the absolute values ​​of all elements of the vector: the negative infinite norm of the above vector $\vec{a}$ is: 5.
   
 $$
-\Vert\vec{x}\Vert_{-\infty}=\min{|{x_i}|}
+\Vert\vec{x}\Vert_{-\infty}=\min{|{x_i}|} z=f(x,y)
 $$
 
 - The positive infinite norm of the vector: the largest of the absolute values ​​of all elements of the vector: the positive infinite norm of the above vector $\vec{a}$ is: 10.
